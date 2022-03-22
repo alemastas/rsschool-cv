@@ -1,0 +1,6 @@
+# Markuhin Aleksandr
+RSS School
+## Email: mastauxus@yandex.ru Github: alemastas Discord: Санчоу#3389
+
+26 years old. He began his training history with receiving medical education, after which he got a job and I have been working in this field to this day. I lack depth of knowledge and career growth, which is why I get demotivated. As a result of the search for new sources of inspiration for self-development, he graduated from the SSTU named after. **Gagarin** in 2021, having received a diploma in graphic design. During his studies at the university, he acquired initial and basic skills in the use of HTML and CSS. I became interested in the IT sphere, inspired by the ways of my friends who found work in this area and get satisfaction from their work. As a result of all my thoughts, I began to study the issue. Began studying Python, interested in the specifics of working in IT. I set out to gain the necessary skills and find a job that has room to grow.
+I own various software: graphic editors **Adobe Photoshop**, **Coral Draw**. 3D graphics editor - **Autodesk 3D Max**. I understand on Github. I also have artistic skills: creating character concept-art and environment concept-art. I am able to develop a design project for a specific topic.
