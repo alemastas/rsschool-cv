@@ -1,0 +1,87 @@
+.prologue {
+    background-color: white;
+    min-height: 10px;
+    min-width: auto;
+}
+
+hr {
+    border: none; 
+    background-color: red; /* Цвет линии */
+    color: red; 
+    height: 2px; /* Толщина линии */
+}
+
+.container {
+    min-height: 40px;
+    display: flex;
+    background-color: #6EB0CC;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.flex-item {
+    text-align: center;
+    padding: 10px;
+    align-content: center;
+}
+
+.header {
+    min-width: 880px;
+}
+
+.Profile {
+    min-height: 60px;
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.named {
+    min-width: 80px;
+    padding: 50px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 3% 15% 3% 15%;
+    background-color: #6EB0CC;
+}
+
+.main-blocks {
+    border-bottom-style: solid;
+    border-bottom-width: 8px;
+    border-bottom-color: #C4C4C4;
+    width: 600px;
+    min-height: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    align-content: center;
+    background-color: white;
+}
+
+.footeritem {
+    display: flex;
+    justify-content: end;
+    min-width: 10px;
+    background-color: #C4C4C4;
+    min-width: 30px;
+    padding: 10px;
+}
+
+.footerend {
+    text-align: center;
+    background-color: #C4C4C4;
+}
+
+@media screen and (max-width: 650px) {
+    .container {
+      flex-direction: column;
+      padding-top: 0%;
+    }
+}
